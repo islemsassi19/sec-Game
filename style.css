@@ -1,0 +1,37 @@
+button{
+   
+    padding: auto;
+    cursor: pointer;
+    height: 150px;
+    width: 400px;
+    border: 3px rgb(216, 13, 131) solid;
+    font-size: 50px;
+    color: rgb(85, 16, 197);
+    background: rgba(240, 237, 238, 0.572);
+    cursor:pointer  ;
+    position: relative; 
+    left: 20px;
+    top: 225px;
+ 
+}
+#body1 {
+    background-image: url("https://jeux.ieducatif.fr/public/images/apprendre-a-compter.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-attachment: fixed;
+    max-height: 100%;
+}
+body{
+    background-color: aquamarine;
+}
+.s{
+    height: 55px;
+    width: 190px;  
+}
+
+
+
